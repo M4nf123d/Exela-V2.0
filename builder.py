@@ -228,3 +228,4 @@ if __name__ == "__main__":
             ctypes.windll.user32.MessageBoxW(None, ctypes.c_wchar_p(message), "Error", 0x10)
     else:
         print("Only Windows operating systems are supported!")
+
