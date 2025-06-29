@@ -146,3 +146,4 @@ if __name__ == "__main__":
         Obfuscator.Main()
     print(f"The code obfuscated on {str(time.time() - t)} second\n")
 
+
